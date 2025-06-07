@@ -23,7 +23,7 @@ A modern, ATS-optimized resume builder featuring professionally designed templat
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/abhishekY495/ResumeOne.git
+git clone https://github.com/vishwabhishek/ResumeOne.git
 cd ResumeOne
 ```
 
@@ -43,10 +43,5 @@ npm run dev
 4. Arrange sections using drag and drop
 5. Download as PDF (disable header/footer in print settings)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 Made with ❤️ by Abhishek
